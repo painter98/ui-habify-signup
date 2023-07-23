@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ui-habify-signup/static/css/main.12400517.css",
+    "main.js": "/ui-habify-signup/static/js/main.f8cc1e23.js",
+    "static/media/EFA_Registered Logo.png": "/ui-habify-signup/static/media/EFA_Registered Logo.5907f72fc58b46dbf948.png",
+    "index.html": "/ui-habify-signup/index.html",
+    "main.12400517.css.map": "/ui-habify-signup/static/css/main.12400517.css.map",
+    "main.f8cc1e23.js.map": "/ui-habify-signup/static/js/main.f8cc1e23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12400517.css",
+    "static/js/main.f8cc1e23.js"
+  ]
+}
