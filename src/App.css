@@ -1,0 +1,78 @@
+.semicircle{
+  transform: translate(-50%, -50%);
+  height: 50vw;
+  width: 50vw;
+  border-radius:50%;
+  position:absolute;
+  top:27vw;
+  left:50%;
+  padding:2vw;
+}
+
+.content-circle{
+  border:2px solid grey;
+  transform: translate(-50%, -50%);
+  border-radius:50%;
+  left:50%;
+  height:54vw;
+}
+
+.details{
+  border:1px solid grey;
+}
+
+main{
+  position:relative;
+}
+
+.content,.content-circle{
+  position:absolute;
+  top:25vw;
+  width:54vw;
+}
+
+.content{
+  left:22.7%;
+  z-index:1;
+}
+
+.full{
+  width:100%;
+}
+
+.survey-content select{
+  width:100%;
+}
+
+label,.coloring{
+  color:rgb(159, 155, 155);
+}
+
+.interest{
+  width:10vw;
+}
+
+.logo{
+  width:25px;
+  height:25px;
+}
+
+img{
+  display: inline-block;
+}
+
+.anime{
+  width:60px;
+  height:60px;
+  margin-left:90%;
+}
+
+.reg_logo{
+  width:22vw;
+  height:10vw;
+  position: relative;
+  left:12vw;
+  top:2vw;
+  padding-bottom:2vw;
+  border-bottom:1px solid black;
+}
